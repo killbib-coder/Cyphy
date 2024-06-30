@@ -31,4 +31,4 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 
 ## Author
 
-This project is maintained by [killbib-coder](https://github.com/killbib-coder)(me).
+This project is maintained by [killbib-coder](https://github.com/killbib-coder) (me).

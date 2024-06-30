@@ -1,0 +1,14 @@
+Version 1.0 - 06/06/24 :
+    - Creation of Cyphy
+    - Features:
+        - Commands:
+            !salut
+            !qui-es-tu
+            !say <message>
+        - From the console, messages can be sent to the Devblog channel
+
+Version 1.1 - 30/06/24 :
+    - Bug fixes :
+        - Cyphy responded to commands from all channels instead of only the Devblog channel
+    - Implemented handling for exceeding the maximum message size when sending messages, displaying an error message in the console and continuing execution of the code
+    - Changed the language of all code and comments

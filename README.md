@@ -1,4 +1,4 @@
-# Cyphy - Discord Bot for Cyphub
+# Cyphy V2 - Discord Bot for Cyphub
 
 Cyphy is a Discord bot tailored for Cyphub, a cybersecurity-centric social platform. This bot enhances community interaction by providing essential commands and facilitating message relay from console to Discord channels.
 
@@ -11,6 +11,7 @@ Cyphy is a Discord bot tailored for Cyphub, a cybersecurity-centric social platf
 
 - **Console Integration:**
   - Send messages from the command line directly to designated Discord channels.
+  - Change the channel where the bot communicates.
 
 ## Installation
 

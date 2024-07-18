@@ -12,3 +12,8 @@ Version 1.1 - 30/06/24 :
         - Cyphy responded to commands from all channels instead of only the Devblog channel
     - Implemented handling for exceeding the maximum message size when sending messages, displaying an error message in the console and continuing execution of the code
     - Changed the language of all code and comments
+
+Version 2 - 18/07/24 :
+    - Improved and more aesthetically pleasing console rendering
+    - Integration of the channel where Cyphy communicates into the console
+    - Display of commands upon startup

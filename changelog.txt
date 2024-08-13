@@ -17,3 +17,11 @@ Version 2 - 18/07/24 :
     - Improved and more aesthetically pleasing console rendering
     - Integration of the channel where Cyphy communicates into the console
     - Display of commands upon startup
+
+Version 2.1 - 13/0824 :
+    - Add python version 
+        - Commands :
+            sm : to send message
+            cl : list channels
+            cc : change channel with Id or name with cl command prompt
+            q : quit 
